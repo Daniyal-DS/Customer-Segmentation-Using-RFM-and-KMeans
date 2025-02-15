@@ -35,15 +35,18 @@ Key columns include:
 
 ### **4. Data Visualization & Insights**  
 #### ✅ **Pie Chart: Cluster Distribution**  
-- Displays the proportion of customers in each segment.  
+- Displays the proportion of customers in each segment.
+- ![Cluster Distribution](Pie chart.png) 
 
 #### ✅ **Scatter Plot: Recency vs Monetary**  
 - **High-Value customers (Red):** Bought recently and spent the most.  
-- **Low-Value customers (Purple):** Haven't purchased in a long time and spent less.  
+- **Low-Value customers (Purple):** Haven't purchased in a long time and spent less.
+- ![Recency vs Monetary](recency_vs_monetary.png)
 
 #### ✅ **Scatter Plot: Frequency vs Monetary**  
 - **Frequent buyers in the High-Value cluster (Red)** tend to have **higher spending**.  
-- **Recent Buyers (Blue)** have **low frequency and spending** since they are **new customers**.  
+- **Recent Buyers (Blue)** have **low frequency and spending** since they are **new customers**.
+- ![Frequency vs Monetary](frequency_vs_monetary.png) 
 
 ## 🛠️ Technologies Used  
 - **Python**  
