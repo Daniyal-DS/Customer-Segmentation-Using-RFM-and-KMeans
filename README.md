@@ -36,7 +36,7 @@ Key columns include:
 ### **4. Data Visualization & Insights**  
 #### ✅ **Pie Chart: Cluster Distribution**  
 - Displays the proportion of customers in each segment.
-- ![Cluster Distribution](Pie chart.png) 
+- ![Cluster Distribution](Pie-chart.png) 
 
 #### ✅ **Scatter Plot: Recency vs Monetary**  
 - **High-Value customers (Red):** Bought recently and spent the most.  
@@ -65,6 +65,9 @@ Key columns include:
    ```bash
    git clone https://github.com/Daniyal-DS/Customer-Segmentation-Using-RFM-and-KMeans
 📌 Author
-👤 Daniyal Haider
-💼 LinkedIn Profile https://www.linkedin.com/in/daniyal-haider-74a63a201/
+👤 Daniyal Haider 
+
+💼 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/daniyal-haider-74a63a201/)** 
+
+
 📧 haiderdaniyal095@gmail.com
